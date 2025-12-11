@@ -4,7 +4,6 @@ The Sorting Visualiser is a web application that allows users to visualize diffe
 # Project Overview:
 Developed a dynamic and interactive web application that visualizes various sorting algorithms. The project is designed to help users understand and observe the inner workings of sorting algorithms through real-time visual feedback.
 # Key Features:
-# Algorithm Implementation:
 Implemented multiple sorting algorithms, including:
 # Bubble Sort:
 A simple comparison-based algorithm where adjacent elements are swapped if they are in the wrong order, with each pass through the list pushing the largest unsorted element to its final position.
@@ -59,4 +58,3 @@ Start Sorting: Click the "Start Sorting" button to begin the visualization.
 
 Pause/Resume: You can pause and resume the sorting process using the respective buttons.
 
-Deployment link :https://github.com/PoojaYadav42/Sorting-Visualizer
