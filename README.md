@@ -59,4 +59,4 @@ Start Sorting: Click the "Start Sorting" button to begin the visualization.
 
 Pause/Resume: You can pause and resume the sorting process using the respective buttons.
 
-Deployment link :https://github.com/PoojaYadav42/Sorting-Visualizer/tree/main
+Deployment link :https://github.com/PoojaYadav42/Sorting-Visualizer
